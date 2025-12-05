@@ -48,4 +48,5 @@ not_in_front = False     # " Yes and the fridge too."
 # The variable names that were easiest to work with were the names that stared with "is".
 # This is because they are concise and easy to understand.
 # The questions that had "not" in them were very difficult.
-# This is because they confused me on which answer was revelent to the response.[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/vcDlqFLz)
+# This is because they confused me on which answer was revelent to the response.
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/vcDlqFLz)
